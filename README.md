@@ -4,3 +4,4 @@
 * git commit -m 'message'
 * git push origin main
 * git push
+* git tag v0.1
